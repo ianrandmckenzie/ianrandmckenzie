@@ -1,7 +1,7 @@
 # Many websites ask me:
 🤖 `ARE YOU HUMAN?`
 
-[](brucey_bruce.gif)
+![](brucey_bruce.gif)
 
 <!--
 **ianrandmckenzie/ianrandmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
