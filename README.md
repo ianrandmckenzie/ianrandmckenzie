@@ -7,6 +7,8 @@
 
 If you are a prospective client/employer, I recommend against using this profile as a reflection of my ability/experience/portfolio.
 
+
+Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
 <!--
 **ianrandmckenzie/ianrandmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
