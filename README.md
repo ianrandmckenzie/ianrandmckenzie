@@ -1,11 +1,6 @@
-# Many websites ask me:
-🤖 `ARE YOU HUMAN?`
-
-![Negative. I am a meat popsicle.](brucey_bruce.gif)
-
 ## Most repositories are private.
 
-If you are a prospective client/employer, I recommend against using this profile as a reflection of my ability/experience/portfolio.
+If you are a prospective client/employer, I recommend against using this profile as a reflection of my ability/experience/portfolio. To see what I've been up to, check out my [resumé](https://ianrandmckenzie.com/resume) and [portfolio](https://objektiv.digital/portfolio).
 
 
 Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
