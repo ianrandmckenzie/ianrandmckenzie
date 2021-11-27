@@ -2,7 +2,7 @@
 
 If you are a prospective client/employer, I recommend against using this profile as a reflection of my ability/experience/portfolio. To see what I've been up to, check out my [resumé](https://ianrandmckenzie.com/resume) and [portfolio](https://objektiv.digital/portfolio).
 
-Recruiters: Please note I am only available for part-time work due to my dissability (schizophrenia).
+Recruiters: Please note I am only available for part-time work due to my disability (schizophrenia).
 
 
 Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
