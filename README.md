@@ -7,6 +7,7 @@ If you are a prospective client/employer, I recommend against using this profile
 Recruiters: Please note I am only available for part-time work due to my disability (schizophrenia).
 
 ## Open Source Contributions
+AKA my online collaboration/communication portfolio.
 * [https://github.com/HabitRPG/habitica/issues/11827](https://github.com/HabitRPG/habitica/issues/11827)
 * [https://github.com/HabitRPG/habitica/pull/11862](https://github.com/HabitRPG/habitica/pull/11862)
 * [https://github.com/ruby/rss/issues/8](https://github.com/ruby/rss/issues/8)
