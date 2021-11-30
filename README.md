@@ -13,6 +13,9 @@ AKA my online collaboration/communication portfolio.
 * [https://github.com/ruby/rss/issues/8](https://github.com/ruby/rss/issues/8)
 * [https://github.com/gd-codes/mc-pixelart-maker/pull/1](https://github.com/gd-codes/mc-pixelart-maker/pull/1)
 
+## Open Source Projects
+Please see the pinned repositories below.
+
 Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
 <!--
 **ianrandmckenzie/ianrandmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
