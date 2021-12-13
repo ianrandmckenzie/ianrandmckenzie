@@ -12,6 +12,8 @@ AKA my online collaboration/communication portfolio.
 * [https://github.com/HabitRPG/habitica/pull/11862](https://github.com/HabitRPG/habitica/pull/11862)
 * [https://github.com/ruby/rss/issues/8](https://github.com/ruby/rss/issues/8)
 * [https://github.com/gd-codes/mc-pixelart-maker/pull/1](https://github.com/gd-codes/mc-pixelart-maker/pull/1)
+* [https://github.com/huntresslabs/log4shell-tester/pull/3](https://github.com/huntresslabs/log4shell-tester/pull/3)
+* [https://github.com/huntresslabs/log4shell-tester/pull/9](https://github.com/huntresslabs/log4shell-tester/pull/9)
 
 ## Open Source Projects
 Please see the pinned repositories below.
