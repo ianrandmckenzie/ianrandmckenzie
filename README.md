@@ -6,6 +6,12 @@ If you are a prospective client/employer, I recommend against using this profile
 
 Recruiters: Please note I am only available for part-time work due to my disability (schizophrenia).
 
+## Active Coding Projects
+* [Objektiv Digital](https://objektiv.digital) – We make websites for successful local businesses.
+* [Enderbook](https://enderbook.com) - The social app for Minecrafters.
+* [Meet with the Company](https://meetwiththe.company) - A cheap, white label alternative to Calendly.com that I built one weekend after feeling like I was getting nickel'd and dimed by all the SaaS I was subscribing to at the beginning of starting my sole proprietorship.
+* [The Meme Hotline](tel:18334691337) - A toll free line to listen to robot-voice dad jokes and get text messages with memes posted on Reddit.
+
 ## Open Source Contributions
 AKA my online collaboration/communication portfolio.
 * [https://github.com/HabitRPG/habitica/issues/11827](https://github.com/HabitRPG/habitica/issues/11827)
