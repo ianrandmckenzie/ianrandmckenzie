@@ -1,10 +1,14 @@
 # Ian Rand McKenzie - GitHub
 
+## Recruiters
+
+Please note I am only available for part-time work due to my disability ([schizophrenia](https://ianrandmckenzie.com/blog/).
+
+Outside of one of my projects turning into a success (aka paying my bills + adding to retirement fund), my dream job would be to create/maintain open source Ruby/Rails libraries in a part-time (20hrs/wk) commitment.
+
 ## Most repositories are private.
 
 If you are a prospective client/employer, I recommend against using this profile as a reflection of my ability/experience/portfolio as it relates to code quality or production output per hour. To see what I've been up to, check out my [resumé](https://ianrandmckenzie.com/resume) and [portfolio](https://objektiv.digital/portfolio).
-
-Recruiters: Please note I am only available for part-time work due to my disability (schizophrenia).
 
 ## Active Coding Projects
 * [Objektiv Digital](https://objektiv.digital) – We make websites for successful local businesses.
