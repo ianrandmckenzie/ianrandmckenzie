@@ -2,7 +2,7 @@
 
 ## Recruiters
 
-Please note I am only available for part-time work due to my disability ([schizophrenia](https://ianrandmckenzie.com/blog/).
+Please note I am only available for part-time work due to my disability ([schizophrenia](https://ianrandmckenzie.com/blog/)).
 
 Outside of one of my projects turning into a success (aka paying my bills + adding to retirement fund), my dream job would be to create/maintain open source Ruby/Rails libraries in a part-time (20hrs/wk) commitment.
 
