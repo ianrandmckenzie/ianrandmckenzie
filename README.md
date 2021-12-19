@@ -37,7 +37,7 @@ AKA you should donate to these until I am indeed filthy rich.
 * [Janko Marohnić](https://github.com/sponsors/janko)
 * [Robin Stocker](https://github.com/sponsors/robinst)
 
-————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————
 
 Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
 <!--
