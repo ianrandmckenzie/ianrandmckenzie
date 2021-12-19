@@ -28,6 +28,15 @@ AKA my online collaboration/communication portfolio.
 ## Open Source Projects
 Please see the pinned repositories below.
 
+## OSS I'd like to sponsor if/when I'm filthy rich
+AKA you should donate to these until I am indeed filthy rich.
+* [ImageMagick](https://github.com/sponsors/ImageMagick#sponsors)
+* [Roots](https://github.com/sponsors/roots)
+* [Bjørn Rosell](https://github.com/sponsors/rosell-dk)
+* [Chrils Oliver](https://github.com/sponsors/excid3)
+* [Janko Marohnić](https://github.com/sponsors/janko)
+* [Robin Stocker](https://github.com/sponsors/robinst)
+
 Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
 <!--
 **ianrandmckenzie/ianrandmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
