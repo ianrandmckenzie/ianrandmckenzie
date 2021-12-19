@@ -28,7 +28,7 @@ AKA my online collaboration/communication portfolio.
 ## Open Source Projects
 Please see the pinned repositories below.
 
-## OSS I'd like to sponsor if/when I'm filthy rich
+## Open Source Software I'd like to sponsor if/when I'm filthy rich
 AKA you should donate to these until I am indeed filthy rich.
 * [ImageMagick](https://github.com/sponsors/ImageMagick#sponsors)
 * [Roots](https://github.com/sponsors/roots)
