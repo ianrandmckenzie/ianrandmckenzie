@@ -37,6 +37,8 @@ AKA you should donate to these until I am indeed filthy rich.
 * [Janko Marohnić](https://github.com/sponsors/janko)
 * [Robin Stocker](https://github.com/sponsors/robinst)
 
+————————————————————————————————————————————————————————————————————————
+
 Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
 <!--
 **ianrandmckenzie/ianrandmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
