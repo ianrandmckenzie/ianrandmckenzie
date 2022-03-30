@@ -39,4 +39,4 @@ AKA you should donate to these until I am indeed filthy rich.
 
 ————————————————————————————————————————————————
 
-Profile picture: 'Ian' by [Matt Boucher](https://opensea.io/TheMindsEye)
+Profile picture taken by [John Bonner](https://bonnerphotography.com/)
