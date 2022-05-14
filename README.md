@@ -12,11 +12,6 @@ If you are a prospective client/employer, I recommend against using this profile
 
 ## Active Coding Projects
 * [Objektiv Digital](https://objektiv.digital) – We make websites for successful local businesses.
-* [Enderbook](https://enderbook.com) - The social app for Minecrafters. Available on web, iOS, and Android.
-  - [Android](https://play.google.com/store/apps/details?id=com.enderbook.app)
-  - [iOS/macOS](https://apps.apple.com/app/enderbook/id1556277152)
-  - [API Docs](https://docs.enderbook.com)
-  - [One on one: Collaborate or give feedback](https://influence.enderbook.com)
 * [Meet with the Company](https://meetwiththe.company) - A cheap, white label alternative to Calendly.com that I built one weekend after feeling like I was getting nickel'd and dimed by all the SaaS I was subscribing to at the beginning of starting my sole proprietorship.
 
 
@@ -25,6 +20,11 @@ If you are a prospective client/employer, I recommend against using this profile
 * [Homicide.app](https://homicide.app) - The only app that empowers you to commit murder legally.
 * [Stridr, the social discovery engine](https://ianrandmckenzie.com/stridr-social-process-work/)
 * [Curious Markings](https://ianrandmckenzie.com/curious-markings-process-work/)
+* [Enderbook](https://enderbook.com) - The social app for Minecrafters. Available on web, iOS, and Android.
+  - [Android](https://play.google.com/store/apps/details?id=com.enderbook.app)
+  - [iOS/macOS](https://apps.apple.com/app/enderbook/id1556277152)
+  - [API Docs](https://docs.enderbook.com)
+  - [One on one: Collaborate or give feedback](https://influence.enderbook.com)
 
 ## Open Source Contributions
 AKA my online collaboration/communication portfolio.
