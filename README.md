@@ -49,5 +49,3 @@ AKA you should donate to these until I am indeed filthy rich.
 * [Robin Stocker](https://github.com/sponsors/robinst)
 
 ————————————————————————————————————————————————
-
-Profile picture taken by [John Bonner](https://bonnerphotography.com/)
