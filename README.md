@@ -2,17 +2,11 @@
 
 ## Recruiters
 
-Please note I am only available for part-time work due to my disability ([schizophrenia](https://ianrandmckenzie.com/blog/)).
-
-Outside of one of my projects turning into a success (aka paying my bills + adding to retirement fund), my dream job would be to create/maintain open source Ruby/Rails libraries in a part-time (20hrs/wk) commitment. Otherwise, a Ruby/Rails project in a technology stack that I already use a business or consumer would be pretty exciting.
-
-## Most repositories are private.
-
-If you are a prospective client/employer, I recommend against using this profile as a reflection of my ability/experience/portfolio as it relates to code quality or production output per hour. To see what I've been up to, check out my [resumé](https://ianrandmckenzie.com/resume) and [portfolio](https://objektiv.digital/portfolio).
+I am currently fully booked indefinitely.
 
 ## Active Coding Projects
 * [Objektiv Digital](https://objektiv.digital) – We make websites for successful local businesses.
-* [Meet with the Company](https://meetwiththe.company) - A cheap, white label alternative to Calendly.com that I built one weekend after feeling like I was getting nickel'd and dimed by all the SaaS I was subscribing to at the beginning of starting my sole proprietorship.
+* Currently undisclosed and unreleased projects
 
 
 ## Past Projects / Hobby Projects
@@ -25,6 +19,8 @@ If you are a prospective client/employer, I recommend against using this profile
   - [iOS/macOS](https://apps.apple.com/app/enderbook/id1556277152)
   - [API Docs](https://docs.enderbook.com)
   - [One on one: Collaborate or give feedback](https://influence.enderbook.com)
+* [Meet with the Company](https://meetwiththe.company) - A cheap, white label alternative to Calendly.com that I built one weekend after feeling like I was getting nickel'd and dimed by all the SaaS I was subscribing to at the beginning of starting my sole proprietorship.
+
 
 ## Open Source Contributions
 AKA my online collaboration/communication portfolio.
@@ -35,17 +31,3 @@ AKA my online collaboration/communication portfolio.
 * [https://github.com/huntresslabs/log4shell-tester/pull/3](https://github.com/huntresslabs/log4shell-tester/pull/3)
 * [https://github.com/mhfs/sidekiq-failures/pull/136#event-6362691864](https://github.com/mhfs/sidekiq-failures/pull/136#event-6362691864)
 * [https://github.com/jeremyevans/rodauth/pull/229#issuecomment-1082830754](https://github.com/jeremyevans/rodauth/pull/229#issuecomment-1082830754)
-
-## Open Source Projects
-Please see the pinned repositories below.
-
-## Open Source Software I'd like to sponsor if/when I'm filthy rich
-AKA you should donate to these until I am indeed filthy rich.
-* [ImageMagick](https://github.com/sponsors/ImageMagick#sponsors)
-* [Roots](https://github.com/sponsors/roots)
-* [Bjørn Rosell](https://github.com/sponsors/rosell-dk)
-* [Chrils Oliver](https://github.com/sponsors/excid3)
-* [Janko Marohnić](https://github.com/sponsors/janko)
-* [Robin Stocker](https://github.com/sponsors/robinst)
-
-————————————————————————————————————————————————
