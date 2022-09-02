@@ -5,7 +5,7 @@
 I am currently fully booked indefinitely.
 
 ## Active Coding Projects
-* [Objektiv Digital](https://objektiv.digital) – We make websites for successful local businesses.
+* [Objektiv Digital](https://objektiv.digital) – I made websites for successful local businesses. Now, I continue to maintain them because I friggin' love all these entrepreneurs who chose to work with me.
 * Currently undisclosed and unreleased projects
 
 
