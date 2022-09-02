@@ -12,6 +12,7 @@ I am currently fully booked indefinitely.
 ## Past Projects / Hobby Projects
 * [The Meme Hotline](tel:+18334691337) - A toll free line to listen to robot-voice dad jokes and get text messages with memes posted on Reddit. 1-833-469-1337
 * [Homicide.app](https://homicide.app) - The only app that empowers you to commit murder legally.
+* [My Art Portfolio, a way for friends to easily make art portfolio websites for free](https://myartportfolio.org/home)
 * [Stridr, the social discovery engine](https://ianrandmckenzie.com/stridr-social-process-work/)
 * [Curious Markings](https://ianrandmckenzie.com/curious-markings-process-work/)
 * [Enderbook](https://enderbook.com) - The social app for Minecrafters. Available on web, iOS, and Android.
