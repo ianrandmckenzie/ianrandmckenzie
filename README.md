@@ -5,11 +5,11 @@
 I am currently fully booked indefinitely.
 
 ## Active Coding Projects
-* [Objektiv Digital](https://objektiv.digital) – I made websites for successful local businesses. Now, I continue to maintain them because I friggin' love all these entrepreneurs who chose to work with me.
 * Currently undisclosed and unreleased projects
 
 
 ## Past Projects / Hobby Projects
+* [Objektiv Digital](https://objektiv.digital) – I made websites for successful local businesses. Now, I continue to maintain them because I friggin' love all these entrepreneurs who chose to work with me.
 * [The Meme Hotline](tel:+18334691337) - A toll free line to listen to robot-voice dad jokes and get text messages with memes posted on Reddit. 1-833-469-1337
 * [Homicide.app](https://homicide.app) - The only app that empowers you to commit murder legally.
 * [My Art Portfolio, a way for friends to easily make art portfolio websites for free](https://myartportfolio.org/home)
