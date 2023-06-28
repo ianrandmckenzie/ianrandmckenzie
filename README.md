@@ -21,7 +21,6 @@ I am currently fully booked indefinitely.
   - [iOS/macOS](https://apps.apple.com/app/enderbook/id1556277152)
   - [API Docs](https://docs.enderbook.com)
   - [One on one: Collaborate or give feedback](https://influence.enderbook.com)
-* [Meet with the Company](https://meetwiththe.company) - A cheap, white label alternative to Calendly.com that I built one weekend after feeling like I was getting nickel'd and dimed by all the SaaS I was subscribing to at the beginning of starting my sole proprietorship.
 
 
 ## Open Source Contributions
